@@ -1,0 +1,25 @@
+bucket-sort-assignment/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── run_experiments.py
+│
+├── src/
+│   ├── bucket_sort.py
+│   ├── insertion_sort.py
+│   ├── experiment_runner.py
+│   └── generate_charts.py
+│
+├── data/
+│   ├── dataset_generator.py
+│   └── test_sizes.txt
+│
+├── results/
+│   ├── experiment_results.csv
+│   └── charts/
+│
+└── docs/
+    ├── algorithm_explanation.md
+    ├── step_by_step_example.md
+    └── complexity_analysis.md
