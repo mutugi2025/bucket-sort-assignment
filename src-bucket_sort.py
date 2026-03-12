@@ -1,4 +1,4 @@
-from src.insertion_sort import insertion_sort
+from src.insertion_sort import insertion_sort, comparisons, swaps
 
 def bucket_sort(arr):
 
